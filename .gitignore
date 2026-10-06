@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
+!backend/data/predictions/demo_predictions.csv
+!backend/data/predictions/demo_races.csv
